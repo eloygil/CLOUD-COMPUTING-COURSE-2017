@@ -1,0 +1,31 @@
+TensorFlow is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API. TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization for the purposes of conducting machine learning and deep neural networks research, but the system is general enough to be applicable in a wide variety of other domains as well. 
+TensorFlow 1.0 has arrived!
+
+We're excited to announce the release of TensorFlow 1.0! Check out the migration guide to upgrade your code with ease.
+UPGRADE NOW
+
+Dynamic graphs in TensorFlow
+
+We've open-sourced TensorFlow Fold to make it easier than ever to work with input data with varying shapes and sizes.
+LEARN MORE
+
+The 2017 TensorFlow Dev Summit
+
+Thousands of people from the TensorFlow community participated in the first flagship event. Watch the keynote and talks.
+WATCH VIDEOS
+About TensorFlow
+
+TensorFlow is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API. TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization for the purposes of conducting machine learning and deep neural networks research, but the system is general enough to be applicable in a wide variety of other domains as well.
+News
+
+Announcing TensorFlow 1.0
+
+In just its first year, TensorFlow has helped researchers, engineers, artists, students, and many others make progress with everything from language translation to early detection of skin cancer and preventing blindness in diabetics. We're excited to see people using TensorFlow in over 6000 open-source repositories online.
+FEB 15, 2017
+Celebrating TensorFlow’s First Year
+
+It has been an eventful year since the Google Brain Team open-sourced TensorFlow to accelerate machine learning research and make technology work better for everyone. There has been an amazing amount of activity around the project: more than 480 people have contributed directly to TensorFlow.
+NOV 06, 2016
+A Neural Network for Machine Translation, at Production Scale
+
+Ten years ago, we announced the launch of Google Translate, together with the use of Phrase-Based Machine Translation as the key algorithm behind this service. Since then, rapid advances in machine intelligence have improved our speech recognition and image recognition capabilities, but improving machine translation remains a challenging goal. Today we announce the Google Neural Machine Translation system...
