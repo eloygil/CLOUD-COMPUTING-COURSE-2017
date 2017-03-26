@@ -1,0 +1,195 @@
+{
+  "axes": [
+    {
+      "scale": "x",
+      "type": "x"
+    },
+    {
+      "scale": "y",
+      "type": "y"
+    }
+  ],
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {
+          "col": "data",
+          "idx": "Barcelona",
+          "val": 2952
+        },
+        {
+          "col": "data",
+          "idx": "Cruyff",
+          "val": 540
+        },
+        {
+          "col": "data",
+          "idx": "Johan",
+          "val": 462
+        },
+        {
+          "col": "data",
+          "idx": "Nou",
+          "val": 240
+        },
+        {
+          "col": "data",
+          "idx": "Camp",
+          "val": 238
+        },
+        {
+          "col": "data",
+          "idx": "Madrid",
+          "val": 235
+        },
+        {
+          "col": "data",
+          "idx": "est",
+          "val": 194
+        },
+        {
+          "col": "data",
+          "idx": "amp",
+          "val": 193
+        },
+        {
+          "col": "data",
+          "idx": "statue",
+          "val": 185
+        },
+        {
+          "col": "data",
+          "idx": "gran",
+          "val": 177
+        },
+        {
+          "col": "data",
+          "idx": "Hipercor",
+          "val": 175
+        },
+        {
+          "col": "data",
+          "idx": "homenaje",
+          "val": 174
+        },
+        {
+          "col": "data",
+          "idx": "ctimas",
+          "val": 165
+        },
+        {
+          "col": "data",
+          "idx": "Spain",
+          "val": 164
+        },
+        {
+          "col": "data",
+          "idx": "difamaci",
+          "val": 151
+        }
+      ]
+    },
+    {
+      "name": "stats",
+      "source": "table",
+      "transform": [
+        {
+          "keys": [
+            "data.idx"
+          ],
+          "type": "facet"
+        },
+        {
+          "type": "stats",
+          "value": "data.val"
+        }
+      ]
+    }
+  ],
+  "height": 500,
+  "legends": [],
+  "marks": [
+    {
+      "from": {
+        "data": "table",
+        "transform": [
+          {
+            "keys": [
+              "data.col"
+            ],
+            "type": "facet"
+          },
+          {
+            "height": "data.val",
+            "point": "data.idx",
+            "type": "stack"
+          }
+        ]
+      },
+      "marks": [
+        {
+          "properties": {
+            "enter": {
+              "fill": {
+                "field": "data.col",
+                "scale": "color"
+              },
+              "width": {
+                "band": true,
+                "offset": -1,
+                "scale": "x"
+              },
+              "x": {
+                "field": "data.idx",
+                "scale": "x"
+              },
+              "y": {
+                "field": "y",
+                "scale": "y"
+              },
+              "y2": {
+                "field": "y2",
+                "scale": "y"
+              }
+            }
+          },
+          "type": "rect"
+        }
+      ],
+      "type": "group"
+    }
+  ],
+  "padding": "auto",
+  "scales": [
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.idx"
+      },
+      "name": "x",
+      "range": "width",
+      "type": "ordinal",
+      "zero": false
+    },
+    {
+      "domain": {
+        "data": "stats",
+        "field": "sum"
+      },
+      "name": "y",
+      "nice": true,
+      "range": "height"
+    },
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.col"
+      },
+      "name": "color",
+      "range": "category20",
+      "type": "ordinal"
+    }
+  ],
+  "width": 960
+}

@@ -1,0 +1,719 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.16992, 
+                    41.3879
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "'biznaga' es ahora una tendencia en #Barcelona\n\nhttps://t.co/EmPhv2lsfU https://t.co/tg8cCzwluJ", 
+                "created_at": "Sat Mar 25 15:23:45 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.1047, 
+                    41.3616
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Femme Fatale by Brouwerij De Leite @ Barcelona Beer Festival \u2014 https://t.co/yv3iRS8yyr", 
+                "created_at": "Sat Mar 25 15:25:03 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.1726243, 
+                    41.37647543
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Espectaculars vistes desde la piscina de l'Hotel Andante de #Barcelona #instaview\u2026 https://t.co/2BhDshW2bz", 
+                "created_at": "Sat Mar 25 15:25:31 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.15204364, 
+                    41.37131662
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Font M\u00e0gica de Montju\u00efc in Barcelona https://t.co/kqPzVYmYVz", 
+                "created_at": "Sat Mar 25 15:25:42 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.16992, 
+                    41.3879
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "'difamaci\u00f3n' es ahora una tendencia en #Barcelona\n\nhttps://t.co/LQlBhnWC4I https://t.co/B37f4D0ZoW", 
+                "created_at": "Sat Mar 25 15:27:51 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.1215099, 
+                    41.40293
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "La mateixa foto d'abans! Posici\u00f3 diferent curs @dba1010 santignasi_ jesuitesfp #barcelona\u2026 https://t.co/E5IDgWBC3R", 
+                "created_at": "Sat Mar 25 15:28:50 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.14167, 
+                    41.345
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Barcelona beach scene @ Port of Barcelona https://t.co/K6xPGvbh8X", 
+                "created_at": "Sat Mar 25 15:28:52 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -53.51655213, 
+                    -24.40025874
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Voc\u00ea j\u00e1 ouviu falar da iniciativa Barcelona? https://t.co/N6Vt2jP8RD", 
+                "created_at": "Sat Mar 25 15:29:10 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.1779378, 
+                    41.3929792
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Qu\u00e9 GENIAL hemos comido!!!! \ud83d\ude31 Me hago Fan!!! \ud83c\udf89 (at @FirebugBcn in Barcelona, Barcleona w/ @thediegohkiin) https://t.co/CC2adCjSbt", 
+                "created_at": "Sat Mar 25 15:29:44 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -1.39977, 
+                    50.8871
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "The Vehicle Carrier Jinsei Maru has just set sail for Barcelona  (Track: https://t.co/m3Ezg9MtCz) #JinseiMaru", 
+                "created_at": "Sat Mar 25 15:32:09 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.175, 
+                    41.38
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Pla\u00e7a Reial, Barcelona \ud83c\udf34Un munt de records banyats de Sol... \ud83c\udf1e// \ud83c\udf34Un mont\u00f3n de recuerdos ba\u00f1ados\u2026 https://t.co/YO3aCn9coe", 
+                "created_at": "Sat Mar 25 15:32:51 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.1501907, 
+                    41.4061378
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"La pregunta m\u00e1s urgente de la vida es: \u00bfQu\u00e9 est\u00e1s haciendo por los dem\u00e1s?\" @ Bunkers Barcelona https://t.co/s8gsLlhKBT", 
+                "created_at": "Sat Mar 25 15:36:41 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    30.7096978, 
+                    36.88554796
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Caf\u00e9 Barcelona in Antalya w/ @ercha4live https://t.co/H1KHzLfbjM", 
+                "created_at": "Sat Mar 25 15:39:57 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.1047, 
+                    41.3616
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Stone Cali-Belgique IPA by @StoneBrewingCo @ Barcelona Beer Festival \u2014 https://t.co/atBc4uD8Z2", 
+                "created_at": "Sat Mar 25 15:41:07 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.16992, 
+                    41.3879
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#estiu1993 es ahora una tendencia en #Barcelona\n\nhttps://t.co/FjmJ94Jxed https://t.co/WKBhJCXtqv", 
+                "created_at": "Sat Mar 25 15:43:12 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    3.1847416, 
+                    50.7538039
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Training continues without internationals: FC Barcelona continued training on Wednesday, despite the absence of a\u2026\u2026 https://t.co/1SiKGTKkwA", 
+                "created_at": "Sat Mar 25 15:44:12 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.1047, 
+                    41.3616
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Molt ben feta encara que no es pas el meu estil - Drinking a Saison Dupont @ Barcelona Beer Festival - https://t.co/7XQGgeBJPZ", 
+                "created_at": "Sat Mar 25 15:44:28 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.18333, 
+                    41.3833
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Fill in the blank @ Barcelona, Spain https://t.co/8oy7IptFGJ", 
+                "created_at": "Sat Mar 25 15:47:36 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.1047, 
+                    41.3616
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Notes a cereal i bon toc de la bota de Brandy - Drinking a Doppelbock @ Barcelona Beer Festival - https://t.co/opZ8mma1jN", 
+                "created_at": "Sat Mar 25 15:50:07 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.19605864, 
+                    41.41549229
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "waiting for airbnb host (@ METRO Bac de Roda in Barcelona) https://t.co/ohZYIpvuLK", 
+                "created_at": "Sat Mar 25 15:59:25 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.16992, 
+                    41.3879
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#zonazine es ahora una tendencia en #Barcelona\n\nhttps://t.co/U8IzapPaZA https://t.co/rIgq84cwYv", 
+                "created_at": "Sat Mar 25 15:59:44 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.166667, 
+                    41.4
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u224817,4 km (intensitat 60%, \u00e0rea 8%) - https://t.co/KzcbSKVTEY\n(25/03/17 17:00) #Barcelona #BCN https://t.co/6jbxNE0kXr", 
+                "created_at": "Sat Mar 25 16:00:32 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.17694444, 
+                    41.3825
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Give away to me \ud83d\udc41\ud83c\udf39 #Valfre \"ICU\" clutch disponible en nuestra tienda online @ Barcelona Espana https://t.co/d9Nwan1CCt", 
+                "created_at": "Sat Mar 25 16:02:56 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -43.48517887, 
+                    -23.02586207
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "O ge falou de um jeito do flamengo que pensei at\u00e9 que fosse o Barcelona...eu hein", 
+                "created_at": "Sat Mar 25 16:03:30 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.18333, 
+                    41.3833
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Picaportes\n\n#barcelona #tuerklopfer  #picaportes #barceloneta #bcn\u2026 https://t.co/Jy7VkrQo8P", 
+                "created_at": "Sat Mar 25 16:03:53 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.1047046, 
+                    41.36161
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Barcelona Beer Festival in L'Hospitalet de Llobregat w/ @twitlluis https://t.co/dAsiEIZKoJ", 
+                "created_at": "Sat Mar 25 16:05:04 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.18333, 
+                    41.3833
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "It ain't easy bein' #khaleesi #braids @ Barcelona, Spain https://t.co/vdjA668YcG", 
+                "created_at": "Sat Mar 25 16:05:14 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.17694444, 
+                    41.3825
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "She's clearly not convinced deep emersion therapy applies to hayfever. #barcelona #vivaespa\u00f1a @\u2026 https://t.co/RYTCZ7VSV7", 
+                "created_at": "Sat Mar 25 16:05:59 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.17694444, 
+                    41.3825
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "She's clearly not convinced deep emersion therapy applies to hayfever. #barcelona #vivaespa\u00f1a @\u2026 https://t.co/2QY9lKyfAD", 
+                "created_at": "Sat Mar 25 16:06:00 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -92.39959, 
+                    34.71129
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#trdpro Barcelona Red on it's way!  Stay tuned next week for pics! @\u2026 https://t.co/p1KieE0j9A", 
+                "created_at": "Sat Mar 25 16:07:09 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.1705129, 
+                    41.3850353
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "One of my favorite #boomerang videos from #Barcelona in front of Palau St. Jordi &amp; Estadi\u2026 https://t.co/THACi7J3xL", 
+                "created_at": "Sat Mar 25 16:10:38 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.1047, 
+                    41.3616
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Hopulent IPA by @EpicBrewing @ Barcelona Beer Festival \u2014 https://t.co/lwuO4UCRMC #photo", 
+                "created_at": "Sat Mar 25 16:13:38 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.153092, 
+                    41.41385564
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#colorfull \ud83c\udf6d\ud83d\ude0d\ud83e\udd8b #parqueguell #Barcelona up in flames... @ Park G\u00fcell https://t.co/rcoX89nBi8", 
+                "created_at": "Sat Mar 25 16:13:41 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.85, 
+                    41.7
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#tb Love my bike \ud83d\ude0d\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f #bmx #barcelona #spain #ride #love #ridaz @ Lloret de Mar https://t.co/WrbYPOpaef", 
+                "created_at": "Sat Mar 25 16:13:55 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.16891, 
+                    41.38718
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Barce-lol-na #braniffsdobarcelona @ Plaza Catalunya, Barcelona Espa\u00f1a https://t.co/C9YXxmbCRj", 
+                "created_at": "Sat Mar 25 16:14:17 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.1047, 
+                    41.3616
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Black Block by @cervesalapirata @ Barcelona Beer Festival \u2014 https://t.co/rx7agkaata #photo", 
+                "created_at": "Sat Mar 25 16:16:38 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    3.1847416, 
+                    50.7538039
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Training continues without internationals: FC Barcelona continued training on Wednesday, despite the absence of a\u2026\u2026 https://t.co/bpGdEPqmbI", 
+                "created_at": "Sat Mar 25 16:17:14 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.1192, 
+                    41.4215
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Enjoy the view #barcelona #catalonia #spain #fiesta #friends #UAB #dj #love #color #youtubers\u2026 https://t.co/W0zJaDPbbi", 
+                "created_at": "Sat Mar 25 16:17:56 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -113.528828, 
+                    37.113033
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I won the Barcelona tournament and 1\u00a0000 Pool Coins! https://t.co/fc1CxbAjAm", 
+                "created_at": "Sat Mar 25 16:20:06 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.12321217, 
+                    41.38111275
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#CampNouExperience #DaleBar\u00e7a #CampNou \ud83d\ude4f\ud83d\udd34\ud83d\udd35\ud83c\uddea\ud83c\uddf8\u26bd\ufe0f @ Camp Nou Stadium, Barcelona https://t.co/8Q6Y7Eksjm", 
+                "created_at": "Sat Mar 25 16:21:03 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.12321217, 
+                    41.38111275
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "CHAAAMPIOOONSSS! \n#CampNouExperience #DaleBar\u00e7a #CampNou \ud83d\ude4f\ud83d\udd34\ud83d\udd35\ud83c\uddea\ud83c\uddf8\u26bd\ufe0f @ Camp Nou Stadium, Barcelona https://t.co/PNS8IDQXi4", 
+                "created_at": "Sat Mar 25 16:22:00 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.1047, 
+                    41.3616
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Session IPA aka Passion IPA by Hopsters Brewery @ Barcelona Beer Festival \u2014 https://t.co/q91iQV3VqR", 
+                "created_at": "Sat Mar 25 16:22:18 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.17933, 
+                    41.37843
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Gin Tonic time! #Barcelona #afternoon #pointofview #food #foodconfidential #happyness #freetime\u2026 https://t.co/Rd9kU4VRN0", 
+                "created_at": "Sat Mar 25 16:22:58 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.12321217, 
+                    41.38111275
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#CampNouExperience #DaleBar\u00e7a #CampNou \ud83d\ude4f\ud83d\udd34\ud83d\udd35\ud83c\uddea\ud83c\uddf8\u26bd\ufe0f @ Camp Nou Stadium, Barcelona https://t.co/vx6G71ycdd", 
+                "created_at": "Sat Mar 25 16:23:05 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.1047, 
+                    41.3616
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Tall Poppy by @8wiredbrewing @ Barcelona Beer Festival \u2014 https://t.co/8tM1plelBF", 
+                "created_at": "Sat Mar 25 16:23:13 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    1.67763291, 
+                    41.91292557
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "El Pinxo disfrutando de la nieve en #Cardona #Barcelona. @ Cardona, Cataluna, Spain https://t.co/aMms3ho3i6", 
+                "created_at": "Sat Mar 25 16:23:52 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.16157, 
+                    41.39525
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Cada vez que paso por delante, no puedo evitar fotografiarla #Gaudi #Barcelona @ La Pedrera-Casa\u2026 https://t.co/HPAm92NeyW", 
+                "created_at": "Sat Mar 25 16:24:06 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.709, 
+                    40.4211
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "MALAMALA - NOCHE DE BRUJAS\n\nY en nuestra REDBOX Desde Barcelona los BANANA LASER DJ SET\n\nCon la\u2026 https://t.co/wYW4GYuvTk", 
+                "created_at": "Sat Mar 25 16:27:14 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -34.91177804, 
+                    -8.0521368
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Edif\u00edcio Barcelona in Recife, PE https://t.co/jxb0EXDd5Y", 
+                "created_at": "Sat Mar 25 16:27:23 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.1047, 
+                    41.3616
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Drinking a Houblon Chouffe by @LaChouffeGnome @ Barcelona Beer Festival \u2014 https://t.co/0NyztMUcpe", 
+                "created_at": "Sat Mar 25 16:27:35 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.15805556, 
+                    41.36416667
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Passejant per #barcelona #turisme #dinarsfamiliars #sensefiltres @\u2026 https://t.co/tiVeIoFYke", 
+                "created_at": "Sat Mar 25 16:28:22 +0000 2017"
+            }
+        }
+    ]
+}
